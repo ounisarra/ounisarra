@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(176, 153, 197);
+}
+#accessoire{
+    width: 500 px;
+    min-height: 1000px;
+    border: 3px solid;
+}
+img {
+    max-width: 300px;
+    height: auto;
+    margin-left: 150px;
+}
